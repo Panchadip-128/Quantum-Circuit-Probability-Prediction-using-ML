@@ -29,7 +29,7 @@ Technologies Used:
 Quantum Computing Framework: Qiskit
 Machine Learning: Python, NumPy, and relevant ML libraries (e.g., scikit-learn, TensorFlow, or PyTorch)
 Data Visualization: Matplotlib or similar libraries for plotting probabilities and predictions
-User Interface: Streamlit or Flask for creating a web application interface
+User Interface: Streamlit or Flask for creating a web application interface (to be deployed soon after making model more optimized)
 
 Sample Output of predicted probability 
 ![1000034342](https://github.com/user-attachments/assets/bc3fc538-ef41-47bb-a685-a2ff63d942cc)
